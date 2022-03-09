@@ -9,7 +9,7 @@
   }
   
   h2{
-    font-size: 36px;
+    font-size: 23px;
   }
   
   form{
@@ -27,5 +27,8 @@
   
   ul{
     text-align: center;
+  }
+  li{
+    margin: 13px;
   }
 }
